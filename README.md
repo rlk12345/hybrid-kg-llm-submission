@@ -162,7 +162,7 @@ Or open `outputs/paper_eval_results.json` in any text editor.
 
 ```bash
 # Step 1: Clone (already done if you're reading this)
-cd clean_repo
+cd hybrid-kg-llm-submission
 
 # Step 2: Setup
 bash QUICK_START.sh
