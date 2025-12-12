@@ -9,7 +9,7 @@ Follow these steps in order to reproduce the results:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/rlk12345/hybrid-kg-llm-submission
 cd Hybrid-KG-LLM-Project/clean_repo
 ```
 
