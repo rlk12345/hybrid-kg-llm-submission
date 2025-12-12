@@ -1,0 +1,50 @@
+{"head": "Symptom Y", "relation": "treats", "tail": "Entity_70"}
+{"head": "Entity_62", "relation": "causes", "tail": "Biological Process A"}
+{"head": "Disease B", "relation": "metabolizes", "tail": "Protein X"}
+{"head": "Entity_108", "relation": "treats", "tail": "AMPK"}
+{"head": "Protein Y", "relation": "causes", "tail": "Entity_59"}
+{"head": "Entity_129", "relation": "binds_to", "tail": "PTGS2"}
+{"head": "Entity_50", "relation": "produces", "tail": "Entity_107"}
+{"head": "Entity_56", "relation": "regulates", "tail": "Entity_71"}
+{"head": "Ibuprofen", "relation": "consumes", "tail": "Entity_40"}
+{"head": "Entity_108", "relation": "inhibits", "tail": "Entity_71"}
+{"head": "Entity_39", "relation": "causes", "tail": "Entity_86"}
+{"head": "Disease B", "relation": "targets", "tail": "Entity_97"}
+{"head": "Enzyme Z", "relation": "inhibits", "tail": "Entity_88"}
+{"head": "Entity_67", "relation": "consumes", "tail": "Headache"}
+{"head": "Entity_117", "relation": "interacts_with", "tail": "Drug Gamma"}
+{"head": "Entity_96", "relation": "targets", "tail": "Entity_75"}
+{"head": "Entity_92", "relation": "binds_to", "tail": "Entity_49"}
+{"head": "Protein", "relation": "treats", "tail": "Entity_58"}
+{"head": "Entity_74", "relation": "targets", "tail": "Entity_59"}
+{"head": "Disease A", "relation": "activates", "tail": "Entity_71"}
+{"head": "Entity_116", "relation": "metabolizes", "tail": "Entity_93"}
+{"head": "Entity_41", "relation": "inhibits", "tail": "Entity_90"}
+{"head": "Entity_53", "relation": "metabolizes", "tail": "Entity_68"}
+{"head": "Cell", "relation": "binds_to", "tail": "Entity_43"}
+{"head": "Entity_136", "relation": "produces", "tail": "Entity_62"}
+{"head": "Entity_41", "relation": "regulates", "tail": "Entity_97"}
+{"head": "Entity_69", "relation": "downregulates", "tail": "Entity_56"}
+{"head": "Entity_83", "relation": "upregulates", "tail": "Breast Cancer"}
+{"head": "Entity_58", "relation": "upregulates", "tail": "ERBB2"}
+{"head": "Entity_80", "relation": "activates", "tail": "Entity_68"}
+{"head": "Glucose", "relation": "causes", "tail": "Entity_80"}
+{"head": "Entity_54", "relation": "metabolizes", "tail": "Entity_127"}
+{"head": "Entity_101", "relation": "downregulates", "tail": "Entity_117"}
+{"head": "Biological Process B", "relation": "prevents", "tail": "Biological Process A"}
+{"head": "Entity_63", "relation": "produces", "tail": "Entity_67"}
+{"head": "Entity_109", "relation": "downregulates", "tail": "Entity_102"}
+{"head": "Entity_92", "relation": "causes", "tail": "Biological Process A"}
+{"head": "Entity_130", "relation": "regulates", "tail": "Protein Y"}
+{"head": "Inflammation", "relation": "upregulates", "tail": "Symptom Y"}
+{"head": "Entity_39", "relation": "metabolizes", "tail": "Entity_40"}
+{"head": "Entity_108", "relation": "binds_to", "tail": "Glucose"}
+{"head": "Entity_98", "relation": "activates", "tail": "Entity_119"}
+{"head": "Entity_135", "relation": "prevents", "tail": "Metformin"}
+{"head": "Drug Alpha", "relation": "metabolizes", "tail": "Entity_68"}
+{"head": "Entity_87", "relation": "targets", "tail": "Entity_75"}
+{"head": "Entity_111", "relation": "associated_with", "tail": "Entity_116"}
+{"head": "Aspirin", "relation": "produces", "tail": "Entity_67"}
+{"head": "Entity_128", "relation": "consumes", "tail": "Entity_45"}
+{"head": "Entity_129", "relation": "downregulates", "tail": "Symptom X"}
+{"head": "Entity_76", "relation": "upregulates", "tail": "Entity_129"}

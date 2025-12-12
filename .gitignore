@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data (large files)
+data/primekg_raw/
+data/*/images/
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# Model checkpoints
+*.bin
+*.safetensors
+checkpoint-*/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.tgz
+*.tar.gz
+

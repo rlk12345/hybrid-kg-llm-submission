@@ -1,0 +1,1 @@
+{"prompt": "Question: Given the KG snippet, what is the relation between Ibuprofen and Headache?\nRelevant KG triples:\n- (Ibuprofen) -[treats]-> (Headache)\nAnswer:", "chosen": "treats", "rejected": "unknown", "image": "data/hybrid_large/images/sample_1.png"}

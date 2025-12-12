@@ -1,0 +1,1 @@
+{"prompt": "Question: Given the KG snippet, what is the relation between Aspirin and Headache?\nRelevant KG triples:\n- (Aspirin) -[treats]-> (Headache)\n- (Aspirin) -[targets]-> (PTGS1)\nAnswer:", "chosen": "treats", "rejected": "unknown", "image": "data/hybrid_simcse_default/images/sample_0.png"}
