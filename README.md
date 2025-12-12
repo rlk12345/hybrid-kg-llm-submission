@@ -10,7 +10,7 @@ Follow these steps in order to reproduce the results:
 
 ```bash
 git clone https://github.com/rlk12345/hybrid-kg-llm-submission
-cd Hybrid-KG-LLM-Project/clean_repo
+cd Hybrid-KG-LLM-Project
 ```
 
 ### Step 2: Run Quick Start (Setup)
